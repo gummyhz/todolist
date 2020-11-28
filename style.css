@@ -1,0 +1,10 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: 'Rubik', sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-weight: bold;
+}
